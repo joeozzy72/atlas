@@ -1,7 +1,0 @@
-# Make sure you’re in your project folder
-git init
-git add .
-git commit -m "Initial commit: Portfolio website files"
-git branch -M main
-git remote add origin https://github.com/joeozzy72/portfolio-site.git
-git push -u origin main
